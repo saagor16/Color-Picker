@@ -2,7 +2,6 @@ import { useState } from 'react';
 
 function App() {
   const [color, setColor] = useState("#ffffff");
-
   return (
     <div 
       className="flex flex-col items-center justify-center min-h-screen" 
