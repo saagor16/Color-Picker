@@ -48,6 +48,10 @@ A simple and visually appealing **Color Picker** application built using React a
 3. View the selected color and its code displayed in real-time.
 4. Click the "Reset to Default" button to revert the color to white.
 
+## Live Demo
+
+Check out the live version of the app here: [Color Picker App](https://color-picker-sand-nu.vercel.app/)
+
 ## Folder Structure
 
 ```
@@ -60,9 +64,7 @@ color-picker-app/
 └── package.json
 ```
 
-## Screenshots
 
-![Color Picker App](https://via.placeholder.com/800x400?text=App+Screenshot)
 
 ## License
 
