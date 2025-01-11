@@ -1,7 +1,7 @@
 import { useState } from 'react';
 
 function App() {
-  const [color, setColor] = useState("#000000");
+  const [color, setColor] = useState("#ffffff");
 
   return (
     <div 
